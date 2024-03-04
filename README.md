@@ -3,11 +3,11 @@ PASSION TRACK is a job portal website front-end developed using React and styled
 
 ## Features
 * User-friendly UI:
-  -The UI is designed to be intuitive and easy to navigate for both job seekers and employers.
+  - The UI is designed to be intuitive and easy to navigate for both job seekers and employers.
 * Responsive Design:
-  -The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
+  - The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
 * Tailwind CSS:
-  -The project utilizes Tailwind CSS for styling, allowing for easy customization and maintenance of styles.
+  - The project utilizes Tailwind CSS for styling, allowing for easy customization and maintenance of styles.
 
 **Contributions are welcome!** If you'd like to contribute to PASSION TRACK, please follow these steps:
 
